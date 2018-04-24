@@ -1,101 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
-    <data>
-      <name>Justin Goldwin</name>
-      <Blood_type>O</Blood_type>
-      <Home_country>USA</Home_country>
-      <Ethinicity>White</Ethinicity>
-      <Zip_code>98001</Zip_code>
-    </data>
+    <VIDEO>
+    <TITLE>ME AT THE ZOO</TITLE>
+    <OWNER>Bob Dylan</OWNER>
+    <FORMAT>MP4</FORMAT>
+    <LENGTH>0:56</LENGTH>
+    <VIEWS>10000784</VIEWS>
+    <CREATEDATE>1985.09.08</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>CNN LIVE ON COHOST</TITLE>
+    <OWNER>CNN</OWNER>
+    <FORMAT>AVI</FORMAT>
+    <LENGTH>30:01</LENGTH>
+    <VIEWS>100456</VIEWS>
+    <CREATEDATE>2013.12.13</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>HOW TO MAKE ZERGLINGS</TITLE>
+    <OWNER>LOWKOTV</OWNER>
+    <FORMAT>AVI</FORMAT>
+    <LENGTH>38:59</LENGTH>
+    <VIEWS>534445</VIEWS>
+    <CREATEDATE>2018.2.14</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>FADE INTO DARKNESS</TITLE>
+    <OWNER>AVICII</OWNER>
+    <FORMAT>M264</FORMAT>
+    <LENGTH>4:20</LENGTH>
+    <VIEWS>100,122,345</VIEWS>
+    <CREATEDATE>2012.1.14</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>WAKE ME UP</TITLE>
+    <OWNER>AVICII</OWNER>
+    <FORMAT>M263</FORMAT>
+    <LENGTH>3:56</LENGTH>
+    <VIEWS>1,092,456,777</VIEWS>
+    <CREATEDATE>2010.10.9</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>YOU MAKE ME</TITLE>
+    <OWNER>AVICII</OWNER>
+    <FORMAT>FLV</FORMAT>
+    <LENGTH>3:28</LENGTH>
+    <VIEWS>90,345,678</VIEWS>
+    <CREATEDATE>1985.4.6</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>LOVE STORY</TITLE>
+    <OWNER>TALOR OFFICIAL</OWNER>
+    <FORMAT>MP4</FORMAT>
+    <LENGTH>5:23</LENGTH>
+    <VIEWS>1123</VIEWS>
+    <CREATEDATE>1985.6.30</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>VIVA LA VIDA</TITLE>
+    <OWNER>COLDPLAY</OWNER>
+    <FORMAT>MOV</FORMAT>
+    <LENGTH>3:22</LENGTH>
+    <VIEWS>5,678,444,321</VIEWS>
+    <CREATEDATE>2008.5.4</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>Empire Burlesque</TITLE>
+    <OWNER>Bob Dylan</OWNER>
+    <FORMAT>WMV</FORMAT>
+    <LENGTH>4:50</LENGTH>
+    <VIEWS>108,322,123,450</VIEWS>
+    <CREATEDATE>1999.8.5</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>WELCOME TO BEIJING</TITLE>
+    <OWNER>JACK MA</OWNER>
+    <FORMAT>MP4</FORMAT>
+    <LENGTH>5:30</LENGTH>
+    <VIEWS>90</VIEWS>
+    <CREATEDATE>2012.5.14</CREATEDATE>
+  </VIDEO>
+  <VIDEO>
+    <TITLE>DRAGON</TITLE>
+    <OWNER>WILLIAM WANG</OWNER>
+    <FORMAT>AVI</FORMAT>
+    <LENGTH>3:49</LENGTH>
+    <VIEWS>70,443,567</VIEWS>
+    <CREATEDATE>2001.1.1</CREATEDATE>
+  </VIDEO>
   </employees>
