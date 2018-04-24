@@ -1,82 +1,85 @@
 {
   "data": [
     {
-      "name": "Justin Goldwin",
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
-    },{
-      "name": "Justin Goldwin",
+    },
+    {
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
-    },{
-      "name": "Justin Goldwin",
+    },    {
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
-    },{
-      "name": "Justin Goldwin",
+    },
+    {
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
-    },{
-      "name": "Justin Goldwin",
+    },    {
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
-    },{
-      "name": "Justin Goldwin",
+    },
+    {
+      "Name": "Justin Goldwin",
       "Blood_type": "O",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98001"
     },
     {
-      "name": "Brielle Williamson",
+      "Name": "Brielle Williamson",
       "Blood_type": "A",
       "Home_country": "USA",
-      "ethnicity": "White",
+      "Ethnicity": "White",
       "Zip_code": "98003"
     }
   ]
