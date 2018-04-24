@@ -1,86 +1,86 @@
 {
   "data": [
     {
-      "Name": "Justin Goldwin",
+      "Name": "James Harden",
       "Blood_type": "O",
-      "Home_country": "USA",
-      "Ethnicity": "White",
+      "Home_country": "Canada",
+      "Ethnicity": "Caucacian",
       "Zip_code": "98001"
     },
     {
-      "Name": "Brielle Williamson",
-      "Blood_type": "A",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
-    },
-    {
-      "Name": "Justin Goldwin",
+      "Name": "Steph Curry",
       "Blood_type": "O",
       "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98001"
+      "Ethnicity": "African",
+      "Zip_code": "98053"
+    },
+    {
+      "Name": "Lebron James",
+      "Blood_type": "A",
+      "Home_country": "Afghanistan",
+      "Ethnicity": "African",
+      "Zip_code": "38001"
+    },
+    {
+      "Name": "Kevin Durant",
+      "Blood_type": "A",
+      "Home_country": "Belarus",
+      "Ethnicity": "Belarusian",
+      "Zip_code": "45359"
+    },    {
+      "Name": "Russell Westbrook",
+      "Blood_type": "B",
+      "Home_country": "China",
+      "Ethnicity": "Asian",
+      "Zip_code": "81192"
+    },
+    {
+      "Name": "Kyrie Irving",
+      "Blood_type": "B",
+      "Home_country": "Egypt",
+      "Ethnicity": "Native American",
+      "Zip_code": "81194"
+    },
+    {
+      "Name": "Kristaps Porzingis",
+      "Blood_type": "AB",
+      "Home_country": "Paraguy",
+      "Ethnicity": "Hispanic",
+      "Zip_code": "10086"
     },
     {
       "Name": "Brielle Williamson",
-      "Blood_type": "A",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
+      "Blood_type": "AB",
+      "Home_country": "New Zealand",
+      "Ethnicity": "caucasian",
+      "Zip_code": "10010"
     },    {
       "Name": "Justin Goldwin",
       "Blood_type": "O",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98001"
+      "Home_country": "Lebanon",
+      "Ethnicity": "Asian",
+      "Zip_code": "95599"
     },
     {
-      "Name": "Brielle Williamson",
-      "Blood_type": "A",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
-    },
-    {
-      "Name": "Justin Goldwin",
+      "Name": "Joel Embiid",
       "Blood_type": "O",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98001"
+      "Home_country": "Poland",
+      "Ethnicity": "Caucasian",
+      "Zip_code": "95588"
     },
     {
-      "Name": "Brielle Williamson",
+      "Name": "Ben Simmons",
+      "Blood_type": "B",
+      "Home_country": "Denmark",
+      "Ethnicity": "Caucasian",
+      "Zip_code": "90007"
+    },
+    {
+      "Name": "Jimmy Butler",
       "Blood_type": "A",
       "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
-    },    {
-      "Name": "Justin Goldwin",
-      "Blood_type": "O",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98001"
-    },
-    {
-      "Name": "Brielle Williamson",
-      "Blood_type": "A",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
-    },
-    {
-      "Name": "Justin Goldwin",
-      "Blood_type": "O",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98001"
-    },
-    {
-      "Name": "Brielle Williamson",
-      "Blood_type": "A",
-      "Home_country": "USA",
-      "Ethnicity": "White",
-      "Zip_code": "98003"
+      "Ethnicity": "African",
+      "Zip_code": "94052"
     }
   ]
 }
