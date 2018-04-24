@@ -18,12 +18,11 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('Name').text(),
+                $(this).find('Blood Type').text(),
+                $(this).find('Home country').text(),
+                $(this).find('ethnicity').text(),
+                $(this).find('zip code').text()
               ] ).draw( false );
              });
             }
@@ -37,22 +36,20 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Blood Type</th>
+            <th>Home country</th>
+            <th>Ethnicity</th>
+            <th>Zip code</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Blood Type</th>
+            <th>Home country</th>
+            <th>Ethnicity</th>
+            <th>Zip code</th>
         </tr>
     </tfoot>
   </table>

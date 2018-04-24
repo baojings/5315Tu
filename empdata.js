@@ -1,12 +1,11 @@
 {
   "data": [
     {
-      "name": "Garrett Winters",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Justin Goldwin",
+      "blood type": "O",
+      "home country": "USA",
+      "ethnicity": "White",
+      "zipcode": "98001"
     },
     {
       "name": "Brielle Williamson",
