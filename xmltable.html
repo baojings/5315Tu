@@ -16,7 +16,7 @@
             url: "cd_catalog.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('CD').each(function(){  
+             $(xml).find('VIDEO').each(function(){  
               t.row.add( [
                 $(this).find('TITLE').text(),
                 $(this).find('OWNER').text(),

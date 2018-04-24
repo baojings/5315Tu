@@ -79,6 +79,5 @@
       "ethnicity": "White",
       "Zip_code": "98003"
     }
-    
   ]
 }
